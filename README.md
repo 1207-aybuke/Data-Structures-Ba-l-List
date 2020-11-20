@@ -1,0 +1,2 @@
+# Data-Structures-Bağl-List
+ 
